@@ -2,6 +2,8 @@ GMAIL HACK USING TERMUX
 
 CODE GIVEN BELOW
 
+====================================
+
 pkg update
 
 pkg upgrade
